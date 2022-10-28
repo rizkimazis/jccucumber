@@ -8,6 +8,9 @@ public class DriverStrategyImplementer {
             case Constants.CHROME:
                 return new Chrome();
 
+            case Constants.CHROMEHEADLESS:
+                return new ChromeHeadless();
+
             case Constants.FIREFOX:
                 return new Firefox();
 
