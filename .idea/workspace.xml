@@ -4,35 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a843a0cb-e86f-4cce-948a-a75e1e431bb3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/cucumber/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/cucumber/drivers/DriverSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/cucumber/drivers/strategies/Chrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/cucumber/drivers/strategies/DriverStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/cucumber/drivers/strategies/DriverStrategyImplementer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/cucumber/drivers/strategies/Firefox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/cucumber/pages/DashboardPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/cucumber/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/cucumber/pages/RecruitmentPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/cucumber/utils/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/cucumber/utils/TestScenarios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/cucumber/utils/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/features/01.Login.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/features/02.Dashboard.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/features/03.Recruitment.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/juaracoding/cucumber/step_definitions/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/juaracoding/cucumber/step_definitions/RunnerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/juaracoding/cucumber/step_definitions/TestDashboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/juaracoding/cucumber/step_definitions/TestLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/juaracoding/cucumber/step_definitions/TestRecruitment.java" afterDir="false" />
+    <list default="true" id="a843a0cb-e86f-4cce-948a-a75e1e431bb3" name="Changes" comment="First Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/juaracoding/cucumber/utils/TestScenarios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/cucumber/utils/TestScenarios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/03.Recruitment.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/03.Recruitment.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/juaracoding/cucumber/step_definitions/TestRecruitment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/juaracoding/cucumber/step_definitions/TestRecruitment.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,6 +130,14 @@
       <option name="presentableId" value="Default" />
       <updated>1666874249996</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <created>1666942330423</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666942330423</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,5 +153,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
   </component>
 </project>
