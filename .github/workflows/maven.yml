@@ -26,6 +26,6 @@ jobs:
         run:   |
           chmod +x ./InstallChrome.sh
           ./InstallChrome.sh
-          chmod +x ./src/main/resources/drivers/chromedriver
+          chmod +x ./src/main/resources/drivers/chromedrivers
       - name: Build with Maven
         run: mvn test --file pom.xml
