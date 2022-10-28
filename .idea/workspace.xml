@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a843a0cb-e86f-4cce-948a-a75e1e431bb3" name="Changes" comment="FIX JDK 11">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/cucumber.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/maven.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/maven.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/juaracoding/cucumber/drivers/strategies/Chrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/cucumber/drivers/strategies/Chrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/juaracoding/cucumber/drivers/strategies/ChromeHeadless.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/cucumber/drivers/strategies/ChromeHeadless.java" afterDir="false" />
+    <list default="true" id="a843a0cb-e86f-4cce-948a-a75e1e431bb3" name="Changes" comment="Push google">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/juaracoding/cucumber/utils/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/cucumber/utils/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/juaracoding/cucumber/step_definitions/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/juaracoding/cucumber/step_definitions/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/juaracoding/cucumber/step_definitions/TestDashboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/juaracoding/cucumber/step_definitions/TestDashboard.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +50,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_directory_selection": "F:/SQA/JCCucumber/src/test/java",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
@@ -170,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666966441167</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Push google">
+      <created>1666969156325</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666969156325</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,6 +194,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="First Commit" />
     <MESSAGE value="FIX JDK 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="FIX JDK 11" />
+    <MESSAGE value="Push google" />
+    <option name="LAST_COMMIT_MESSAGE" value="Push google" />
   </component>
 </project>
